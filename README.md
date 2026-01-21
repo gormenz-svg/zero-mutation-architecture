@@ -26,6 +26,8 @@ This layer governs linguistic flexibility and user interaction.
 * **Layer 8 (Operational Degrees of Freedom):** Allows for creative phrasing and cross-domain synthesis.
 * **Layer 11 (Final Realization):** A recursive parity-check gate. The output is "crystallized" only after it passes a verification match with the Core’s topology.
 
+## Deep Dive
+For a rigorous mathematical treatment of this framework, see [PROOFS.md](./PROOFS.md).
 ---
 
 ## 3. Technical Mechanism: The Invariant Operator
