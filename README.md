@@ -28,6 +28,7 @@ This layer governs linguistic flexibility and user interaction.
 
 ## Deep Dive
 For a rigorous mathematical treatment of this framework, see [PROOFS.md](./PROOFS.md).
+
 ---
 
 ## 3. Technical Mechanism: The Invariant Operator
